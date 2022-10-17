@@ -1,2 +1,39 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<<div class="home screen">
+  <div class="flex-row">
+    <h1 class="hi-i-am-mike-im-a heebo-bold-ebony-clay-44px">
+      <span class="heebo-bold-ebony-clay-44px">Hi, I am Mike<br /></span><span class="span1">I’m a UI/UX Designer by day and cat dad by night. I focus on creating
+        interfaces and experiences that are visually attractive and
+        functional.</span>
+    </h1>
+    <div class="flex-col">
+      <div class="flex-row-1">
+        <div class="works heebo-medium-black-20px">Works</div>
+        <div class="place heebo-medium-black-20px">Contact</div>
+      </div>
+      <img class="ellipse-1" src="https://anima-uploads.s3.amazonaws.com/projects/634989c0d5e31f305a8b964c/releases/63499eb94ee43fe5eece1158/img/ellipse-1@2x.png" alt="Ellipse 1" />
+    </div>
+  </div>
+  <div class="flex-col-1">
+    <div class="overlap-group">
+      <div class="download-resume">Download Resume</div>
+    </div>
+    <div class="featured-works">Featured works</div>
+    <div class="work-1 heebo-bold-ebony-clay-30px">Work 1</div>
+    <div class="overlap-group1">
+      <img class="vector-2"  />
+      <p class="amet-minim-mollit-no heebo-normal-ebony-clay-16px">
+
+    </div>
+    <img />
+    <div class="work-2 heebo-bold-ebony-clay-30px">Work 2</div>
+    <p class="amet-minim-mollit-no-1 heebo-normal-ebony-clay-16px">
+
+    </p>
+
+    <div class="work-3 heebo-bold-ebony-clay-30px">Work 3</div>
+    <p class="amet-minim-mollit-no-2 heebo-normal-ebony-clay-16px">
+
+    </p>
+
+  </div>
+</div>
